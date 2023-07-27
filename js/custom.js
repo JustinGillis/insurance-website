@@ -72,7 +72,7 @@ var customScripts = {
     slider: function () {
         $('#da-slider').cslider({
             autoplay: true,
-            bgincrement: 0
+            bgincrement: 2
         });
     },
     init: function () {
